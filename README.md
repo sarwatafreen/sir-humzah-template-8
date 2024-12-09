@@ -1,3 +1,7 @@
+This Project didn't deploy due to run time errors it may take some little bit more.
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
